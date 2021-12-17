@@ -57,6 +57,7 @@ public class App {
           break;
         }
       }
+      System.out.println("Describir suministro: ");
       apartamento.setSuministro(DescribirSuministros());     
     }
     

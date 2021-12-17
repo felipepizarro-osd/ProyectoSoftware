@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 public class Propietario {
   private String rut;
   private String nombre;
@@ -21,11 +22,16 @@ public class Propietario {
 =======
 =======
 >>>>>>> origin/main
+=======
+>>>>>>> origin/main
 public class Propietario{
   
   public Propietario(){
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
 >>>>>>> origin/main
 =======
 >>>>>>> origin/main
