@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 public class Propietario {
   private String rut;
   private String nombre;
@@ -18,10 +19,15 @@ public class Propietario {
     ap[cant_prop] = a;
     this.cant_prop += 1;
 =======
+=======
+>>>>>>> origin/main
 public class Propietario{
   
   public Propietario(){
 
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
 >>>>>>> origin/main
   }
 
