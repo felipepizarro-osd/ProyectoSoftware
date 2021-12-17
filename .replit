@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 language = "java10"
 run = "run"
+=======
+language = "bash"
+run = ""
+>>>>>>> origin/main

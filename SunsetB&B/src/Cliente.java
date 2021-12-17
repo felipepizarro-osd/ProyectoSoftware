@@ -19,6 +19,4 @@ public class Cliente{
     return this.correo;
   }
 
-  
-
 }

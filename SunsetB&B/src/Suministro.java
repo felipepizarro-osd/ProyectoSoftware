@@ -6,13 +6,13 @@ public class Suministro{
   private boolean cocina;
   private boolean lavadora;
   
-  public Suministro(boolean televisor,boolean aire_acond,boolean calefaccion,boolean){
-    this.televisor = false;
-    this.aire_acond = false;
-    this.calefaccion = false;
-    this.refrigerador = false;
-    this.cocina = false;
-    this.lavadora = false;
+  public Suministro(boolean televisor,boolean aire_acond,boolean calefaccion, boolean refrigerador,boolean cocina,boolean lavadora){
+    this.televisor = televisor;
+    this.aire_acond = aire_acond;
+    this.calefaccion = calefaccion;
+    this.refrigerador = refrigerador;
+    this.cocina = cocina;
+    this.lavadora = lavadora;
   }
 
   //SETS

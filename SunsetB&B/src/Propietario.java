@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Propietario {
   private String rut;
   private String nombre;
@@ -16,6 +17,12 @@ public class Propietario {
   public setApartment (Apartment a ){
     ap[cant_prop] = a;
     this.cant_prop += 1;
+=======
+public class Propietario{
+  
+  public Propietario(){
+
+>>>>>>> origin/main
   }
 
 }
